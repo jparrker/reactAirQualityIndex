@@ -1,5 +1,3 @@
-# React app which will take a city as user input, fetch data for the city from the  World Air Quality Index Project, stores the api results in state, and renders them in components styled with bootstrap
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
